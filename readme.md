@@ -1,8 +1,8 @@
 @everyone 
 
-**Задание №4 (ВСЕ НАПРАВЛЕНИЯ)**
+**Задание №4**
 
-**СПЕЦИАЛИЗАЦИЯ - Backend developer**:
+**СПЕЦИАЛИЗАЦИЯ - PHP**:
 
 * PHP 8.2+, Symfony, MySQL or PostgreSQL
 
